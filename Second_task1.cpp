@@ -6,7 +6,7 @@ int main()
     cin>>s;
 
     int n=s.length();
-    int count=0;
+    //int count=0;
 
     if(n<3)
     {
